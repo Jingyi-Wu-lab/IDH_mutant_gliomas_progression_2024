@@ -1,6 +1,6 @@
-hub MyHub
-shortLabel MyHub
-longLabel My Custom Track Hub
-genomesFile genomes.txt
-email wjyzidane@gmail.com
+hub IDH_mutant_gliomas
+shortLabel IDH gliomas
+longLabel Tracks for IDH mutant gliomas project 2024
+genomesFile https://raw.githubusercontent.com/Jingyi-Wu-lab/IDH_mutant_gliomas_progression_2024/main/track_folder/genomes.txt
+email your.email@institution.edu
 
