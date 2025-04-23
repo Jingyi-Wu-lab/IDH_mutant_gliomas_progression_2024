@@ -1,0 +1,6 @@
+hub MyHub
+shortLabel MyHub
+longLabel My Custom Track Hub
+genomesFile genomes.txt
+email wjyzidane@gmail.com
+

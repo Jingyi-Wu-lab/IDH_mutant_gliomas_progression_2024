@@ -1,0 +1,1 @@
+track type=bigWig name=ACH-000007.nodup.no_chrM_MT.tn5.fc.signal description=ACH-000007.nodup.no_chrM_MT.tn5.fc.signal bigDataUrl=https://storage.googleapis.com/jwu_ucsc/postdoc3/ACH-000007.nodup.no_chrM_MT.tn5.fc.signal.bigwig viewLimits=3:20 visibility=2 windowingFunction=maximum maxHeightPixels=30 autoScale=off color=0,0,255
