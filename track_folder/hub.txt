@@ -1,6 +1,7 @@
 hub IDH_mutant_gliomas
-shortLabel ATAC
-longLabel Tracks for IDH mutant gliomas project 2024
+shortLabel IDH
+longLabel IDH mutant gliomas project 2024
 genomesFile https://raw.githubusercontent.com/Jingyi-Wu-lab/IDH_mutant_gliomas_progression_2024/main/track_folder/genomes.txt
-email your.email@institution.edu
+email wjyzidane@gmail.com
+
 
